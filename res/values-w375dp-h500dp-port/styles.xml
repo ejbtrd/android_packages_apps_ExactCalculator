@@ -18,7 +18,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
     <style name="PadButtonStyle.Advanced">
-        <item name="android:background">@drawable/pad_button_advanced_background</item>
+        <item name="android:background">@drawable/pad_button_background</item>
         <item name="android:textColor">@color/pad_button_advanced_text_color</item>
         <item name="android:textSize">23dip</item>
     </style>
