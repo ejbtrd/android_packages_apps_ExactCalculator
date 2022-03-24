@@ -292,8 +292,6 @@
     <string name="menu_fraction">Answer as fraction</string>
     <!-- Menu option to view the app's open source licenses. [CHAR_LIMIT=40] -->
     <string name="menu_licenses">Open source licenses</string>
-    <!-- Menu option to access calculation history. [CHAR_LIMIT=40] -->
-    <string name="menu_history">History</string>
     <!-- Menu option to clear calculation history and memory. [CHAR_LIMIT=40] -->
     <string name="menu_clear_history">Clear</string>
 

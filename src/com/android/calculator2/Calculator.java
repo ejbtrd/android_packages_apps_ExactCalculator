@@ -1276,9 +1276,6 @@ public class Calculator extends Activity
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.menu_history:
-                showHistoryFragment();
-                return true;
             case R.id.menu_leading:
                 displayFull();
                 return true;
