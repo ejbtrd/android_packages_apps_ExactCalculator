@@ -155,16 +155,16 @@
 
 
     <com.android.calculator2.HapticButton
-        android:id="@+id/dec_point"
+        android:id="@+id/digit_0"
         style="@style/PadButtonStyle.Numeric"
-        android:contentDescription="@string/desc_dec_point"
+        android:text="@string/digit_0"
         app:layout_column="0"
         app:layout_row="4" />
 
     <com.android.calculator2.HapticButton
-        android:id="@+id/digit_0"
+        android:id="@+id/dec_point"
         style="@style/PadButtonStyle.Numeric"
-        android:text="@string/digit_0"
+        android:contentDescription="@string/desc_dec_point"
         app:layout_column="1"
         app:layout_row="4" />
 
